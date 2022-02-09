@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\facultate\\java\\ProiectJava\\lib\\mysql-connector-java-8.0.16.jar",
+        "c:\\Users\\chris\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\quartz-2.4.0-SNAPSHOT.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\quartz-jobs-2.4.0-SNAPSHOT.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\c3p0-0.9.5.3.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\log4j-1.2.16.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\slf4j-api-1.7.7.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\slf4j-log4j12-1.7.7.jar",
+        "c:\\facultate\\java\\ProiectJava\\lib\\spring-boot-cli-3.0.0-SNAPSHOT.jar",
+        "c:\\facultate\\java\\ProiectJava\\lib\\javax.mail.jar",
+        "c:\\facultate\\java\\ProiectJava\\lib\\activation.jar"
+    ]
+}

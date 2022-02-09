@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\chris\\OneDrive\\Desktop\\ProiectPi\\driver\\mysql-connector-java-8.0.16.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\quartz-2.4.0-SNAPSHOT.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\c3p0-0.9.5.3.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\log4j-1.2.16.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\quartz-jobs-2.4.0-SNAPSHOT.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\slf4j-api-1.7.7.jar",
+        "c:\\Users\\chris\\Downloads\\quartz-2.4.0-SNAPSHOT\\lib\\slf4j-log4j12-1.7.7.jar"
+    ]
+}
